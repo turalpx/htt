@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Test</title>
+	</head>
+
+	<body>
+		1) press <a href ="http://sknt.ru">here</a>! <br/>
+		2) press <strong>here</strong>! <br/>
+		3) press <em>here</em>! <br/>
+		4) press here<br/>
+		5)  <h1>here to go</h1>
+			<h2>here to go</h2>
+			<h3>here to go</h3>
+			<h4>here to go</h4>
+			<h5>here to go</h5>
+			<h6>here to go</h6>
+			
+		6) 	<br/>
+				<img src="https://turkishairlines.ssl.cdn.sdlmedia.com/637130338062523623PZ.jpg" width="200px" height="100px"/><br/>
+				<img src ="test.jpg" width="100px" height ="132px" /> <br/>
+				<img src ="imgs/t2.jpg" width= "133px" height= "84px"/> <br/>
+		7)		<div>block3</div>
+		8)
+				<table border="1">
+					<tr><td>январь</td><td>февраль</td><td>март</td></tr>
+					<tr><td>апрель</td><td>май</td><td>июнь</td></tr>
+					<tr><td>июль</td><td>август</td><td>сентябрь</td></tr>
+					<tr><td>октябрь</td><td>ноябрь</td><td>декабрь</td></tr>
+						
+				</table>
+				<input/> <br/>
+				<strong>Fill missing</strong>
+				<table border="1">
+					<tr><td>январь</td><td>февраль</td><td>март</td></tr>
+					<tr><td>апрель</td><td><em><input value="which month?"/></em></td><td>июнь</td></tr>
+					<tr><td>июль</td><td>август</td><td>сентябрь</td></tr>
+					<tr><td>октябрь</td><td>ноябрь</td><td>декабрь</td></tr>
+						
+				</table>
+				</br>
+				<textarea></textarea>
+	
+</html>
